@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Emotray")]
+[assembly: AssemblyTitle("EmotiTray")]
 [assembly: AssemblyDescription("Emote text tray app")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Emotray")]
+[assembly: AssemblyProduct("EmotiTray")]
 [assembly: AssemblyCopyright("Copyright © G.Lydall 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -12,7 +12,7 @@
         <MenuItem Header="(╯°□°）╯︵ ┻━┻" Command="{Binding CopyToClipboardCommand}" CommandParameter="(╯°□°）╯︵ ┻━┻" />
         <MenuItem Header="┬─┬ノ( º _ ºノ)" Command="{Binding CopyToClipboardCommand}" CommandParameter="┬─┬ノ( º _ ºノ)" />
         <MenuItem Header="(/◕ヮ◕)/" Command="{Binding CopyToClipboardCommand}" CommandParameter="(/◕ヮ◕)/" />
-        <MenuItem Header="◔_◔" Command="{Binding CopyToClipboardCommand}" CommandParameter="◔_◔" />
+        <MenuItem Header="◔__◔" Command="{Binding CopyToClipboardCommand}" CommandParameter="◔_◔" />
         <MenuItem Header="¯\__(ツ)__/¯" Command="{Binding CopyToClipboardCommand}" CommandParameter="¯\_(ツ)_/¯" />
         <MenuItem Header="ಠ__ಠ" Command="{Binding CopyToClipboardCommand}" CommandParameter="ಠ_ಠ" />
         <MenuItem Header="ಠ╭╮ಠ" Command="{Binding CopyToClipboardCommand}" CommandParameter="ಠ╭╮ಠ" />

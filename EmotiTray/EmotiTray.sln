@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emotray", "Emotray.csproj", "{964EBFBE-A600-49B2-BDD8-422B46F1D544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmotiTray", "EmotiTray.csproj", "{964EBFBE-A600-49B2-BDD8-422B46F1D544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
